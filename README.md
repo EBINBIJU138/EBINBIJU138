@@ -150,20 +150,6 @@ const ebinBiju = {
 
 ---
 
-## 📚 Education
-
-<div align="center">
-
-| 🎓 Qualification | 🏫 Institution | 📝 Notes |
-|:---|:---|:---|
-| Game Development & Game Design | Emergio Games | ✅ Professional 2-Year Course |
-| B.A. History | University | ⚡ Pivoted to IT career |
-| ITI – Electronics | Industrial Training Institute | ✅ Technical Foundation |
-| Higher Secondary (+2) | Higher Secondary School | ✅ Completed |
-| Secondary School (10th) | Secondary School | ✅ Completed |
-
-</div>
-
 ---
 
 ## ✅ Recently Completed
