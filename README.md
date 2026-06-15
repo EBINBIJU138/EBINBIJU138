@@ -36,11 +36,11 @@ const ebinBiju = {
 
 | 🎮 Project | 🛠️ Stack | ✨ Highlights | Status |
 |:---|:---|:---|:---:|
-| **Runner Max** | Unity · C# | 2D endless runner — coins, enemies, collision & scoring | ✅ Complete |
-| **Ghost Fight** | Unity · C# · AI | Action combat with ghost characters & enemy AI | ✅ Complete |
-| **Car Multiplayer** | Unity · Netcode | Real-time multiplayer racing with networked physics | ✅ Complete |
-| **Forest Hunt** | Unity · C# · AI | Open-world hunting with AI wildlife & level design | ✅ Complete |
-| **Snake & Ladder** | Unity · C# | Digital board game with dice & turn management | ✅ Complete |
+| [**Runner Max**](https://github.com/EBINBIJU138/runner-max) | Unity · C# | 2D endless runner — coins, enemies, collision & scoring | ✅ Complete |
+| [**Ghost Fight**](https://github.com/EBINBIJU138/the-sky-war) | Unity · C# · AI | Action combat with ghost characters & enemy AI | ✅ Complete |
+| [**Car Multiplayer**](https://github.com/EBINBIJU138/CAR-MULTIPLAYER) | Unity · Netcode | Real-time multiplayer racing with networked physics | ✅ Complete |
+| [**Forest Hunt**](https://github.com/EBINBIJU138/the-forest-hunt) | Unity · C# · AI | Open-world hunting with AI wildlife & level design | ✅ Complete |
+| [**Snake & Ladder**](https://github.com/EBINBIJU138/snake-and-ladder) | Unity · C# | Digital board game with dice & turn management | ✅ Complete |
 
 ### 🤖 Apps & Tools
 
