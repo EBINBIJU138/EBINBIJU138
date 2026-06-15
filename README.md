@@ -14,13 +14,13 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-**Ebin Biju** — Developer · Founder · CEO @ **Exurion Technologies**
+**Ebin Biju** — CEO & Founder @ **Exurion Technologies**
 
 2 years at **Emergio Games** → founded **Exurion Technologies**, a full-service IT company. I build games, apps, and web products end-to-end.
 
 ```javascript
 const ebinBiju = {
-  role:  ["💻 Full-Stack Dev", "🎮 Game Dev", "👑 CEO @ Exurion Technologies"],
+  role:  ["👑 CEO & Founder @ Exurion Technologies", "💻 Full-Stack Dev", "🎮 Game Dev"],
   stack: ["Unity", "UE5", "Flutter", "React", "Node.js", "MongoDB", "Firebase"],
   motto: "Code. Create. Conquer. 🚀"
 };
