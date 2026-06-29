@@ -16,7 +16,7 @@
 
 **Ebin Biju** — Founder & CEO @ **Exurion Technologies**
 
-![Founder & CEO Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=👑%20Founder%20%26%20CEO%20-%20Exurion%20Technologies&fontSize=24&fontColor=fff&fontAlignY=55)
+![Exurion Technologies Banner](./assets/exurion-banner.png)
 
 2 years at **Emergio Games** → founded **Exurion Technologies**, a full-service IT company. I build games, apps, and web products end-to-end.
 
