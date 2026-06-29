@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ebin%20Biju&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Founder%20%7C%20CEO%20%40%20Exurion%20Technologies%20%7C%20Game%20%7C%20App%20%7C%20Web%20%7C%20Software&descAlignY=62&descSize=14&descColor=fff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ebin%20Biju&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder%20%26%20CEO%20%40%20Exurion%20Technologies&descAlignY=62&descSize=14&descColor=fff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=820&lines=Hey+there%2C+I'm+Ebin+Biju+👋;CEO+%26+Founder+of+Exurion+Technologies+🏢;Full-Stack+Developer+%26+Software+Architect+💻;Game+%7C+App+%7C+Web+Developer+🎮;Building+the+Future+One+Line+at+a+Time+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=820&lines=Hey+there%2C+I'm+Ebin+Biju+👋;Founder+%26+CEO+of+Exurion+Technologies+🏢;Building+the+Future+One+Line+at+a+Time+⚡)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ebiju127&color=70a5fd&style=flat-square&label=Profile+Views)
 
@@ -14,13 +14,13 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-**Ebin Biju** — CEO & Founder @ **Exurion Technologies**
+**Ebin Biju** — Founder & CEO @ **Exurion Technologies**
 
 2 years at **Emergio Games** → founded **Exurion Technologies**, a full-service IT company. I build games, apps, and web products end-to-end.
 
 ```javascript
 const ebinBiju = {
-  role:  ["👑 CEO & Founder @ Exurion Technologies", "💻 Full-Stack Dev", "🎮 Game Dev"],
+  role:  "👑 Founder & CEO @ Exurion Technologies",
   stack: ["Unity", "UE5", "Flutter", "React", "Node.js", "MongoDB", "Firebase"],
   motto: "Code. Create. Conquer. 🚀"
 };
@@ -85,7 +85,7 @@ const ebinBiju = {
 
 **🌐 CMS & E-Commerce** — ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white) ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
 
-**🎨 Design & 3D** — ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Maya](https://img.shields.io/badge/Maya-0696D7?style=flat-square&logo=autodesk&logoColor=white) ![ZBrush](https://img.shields.io/badge/ZBrush-E36B23?style=flat-square&logoColor=white)
+**🎨 Design & 3D** — ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white) ![Maya](https://img.shields.io/badge/Maya-0696D7?style=flat-square&logo=autodesk&logoColor=white) ![ZBrush](https://img.shields.io/badge/ZBrush-E36B23?style=flat-square&logo=zbrush&logoColor=white)
 
 **🔧 Tools** — ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
@@ -104,8 +104,6 @@ const ebinBiju = {
 **🏫 Certified by** — Emergio Games (Game Development & Game Design — 2 Year Professional Course)
 
 </div>
-
----
 
 ---
 
@@ -135,7 +133,7 @@ const ebinBiju = {
 
 <div align="center">
 
-*"Code. Create. Conquer."* 🚀 — **Ebin Biju** · CEO & Founder, Exurion Technologies
+*"Code. Create. Conquer."* 🚀 — **Ebin Biju** · Founder & CEO, Exurion Technologies
 
 </div>
 
