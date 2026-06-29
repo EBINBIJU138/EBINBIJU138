@@ -16,6 +16,8 @@
 
 **Ebin Biju** — Founder & CEO @ **Exurion Technologies**
 
+![Founder & CEO](https://img.shields.io/badge/👑_Founder_%26_CEO-Exurion_Technologies-70A5FD?style=for-the-badge&labelColor=000000)
+
 2 years at **Emergio Games** → founded **Exurion Technologies**, a full-service IT company. I build games, apps, and web products end-to-end.
 
 ```javascript
