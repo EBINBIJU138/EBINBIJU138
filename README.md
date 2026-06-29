@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=820&lines=Hey+there%2C+I'm+Ebin+Biju+👋;Founder+%26+CEO+of+Exurion+Technologies+🏢;Building+the+Future+One+Line+at+a+Time+⚡)](https://git.io/typing-svg)
 
-![Profile Views](file:///D:/d91c6fb2-4886-4685-81fc-e036dea67de1.png)
+![Profile Views](https://komarev.com/ghpvc/?username=ebiju127&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 **Ebin Biju** — Founder & CEO @ **Exurion Technologies**
 
-![Exurion Technologies Banner](./assets/exurion-banner.png)
+![Founder & CEO Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=👑%20Founder%20%26%20CEO%20-%20Exurion%20Technologies&fontSize=24&fontColor=fff&fontAlignY=55)
 
 2 years at **Emergio Games** → founded **Exurion Technologies**, a full-service IT company. I build games, apps, and web products end-to-end.
 
