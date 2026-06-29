@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=820&lines=Hey+there%2C+I'm+Ebin+Biju+👋;Founder+%26+CEO+of+Exurion+Technologies+🏢;Building+the+Future+One+Line+at+a+Time+⚡)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ebiju127&color=70a5fd&style=flat-square&label=Profile+Views)
+![Profile Views](file:///D:/d91c6fb2-4886-4685-81fc-e036dea67de1.png)
 
 </div>
 
