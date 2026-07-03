@@ -42,6 +42,7 @@ Exurion Technologies is a full-service IT company founded by Ebin Biju, offering
 | | |
 |:---|:---|
 | **🏗️ Founded & Led By** | Ebin Biju |
+| **🏢 Office** | Virtual Office — remote-first team |
 | **🎯 Core Services** | Game Development · App Development · Web Development · Custom Software |
 | **🌍 Engagement Model** | End-to-end delivery — concept, build, and launch |
 | **📈 Origin** | Founded on a hands-on foundation in game development & design |
