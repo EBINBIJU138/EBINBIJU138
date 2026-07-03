@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ebin%20Biju&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder%20%26%20CEO%20%40%20Exurion%20Technologies&descAlignY=62&descSize=15&descColor=fff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=820&lines=Founder+%26+CEO+%40+Exurion+Technologies+%F0%9F%8F%A2;Building+Games%2C+Apps+%26+Products+End-to-End+%E2%9A%A1;Ex-Emergio+Games+%E2%86%92+Founder+%F0%9F%9A%80;Code.+Create.+Conquer.+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=820&lines=Founder+%26+CEO+%40+Exurion+Technologies+%F0%9F%8F%A2;Building+Games%2C+Apps+%26+Products+End-to-End+%E2%9A%A1;Full-Service+IT+%26+Game+Studio+%F0%9F%92%BB;Code.+Create.+Conquer.+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ebiju127&color=70a5fd&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
@@ -18,7 +18,7 @@
 
 **Ebin Biju** is the **Founder & CEO of Exurion Technologies**, a full-service IT company delivering games, apps, and web products end-to-end — from concept and architecture through to launch and scale.
 
-Prior to founding Exurion, Ebin spent **2 years at Emergio Games** building a hands-on foundation in game development and design, which now shapes how Exurion approaches product engineering: ship fast, build for scale, and never compromise on craft.
+With a hands-on foundation in game development and design, Ebin built Exurion's approach to product engineering around a simple principle: ship fast, build for scale, and never compromise on craft.
 
 ```javascript
 const founder = {
@@ -44,7 +44,7 @@ Exurion Technologies is a full-service IT company founded by Ebin Biju, offering
 | **🏗️ Founded & Led By** | Ebin Biju |
 | **🎯 Core Services** | Game Development · App Development · Web Development · Custom Software |
 | **🌍 Engagement Model** | End-to-end delivery — concept, build, and launch |
-| **📈 Origin** | Founded after 2 years of professional experience at Emergio Games |
+| **📈 Origin** | Founded on a hands-on foundation in game development & design |
 
 ---
 
@@ -142,8 +142,6 @@ Exurion Technologies is a full-service IT company founded by Ebin Biju, offering
 **💻 Languages** — C · C# · C++ · Java · JavaScript · TypeScript · Python · Node.js · React.js · SQL · Lua · Dart
 
 **🎯 Domains** — 🎮 Game Development · 🎨 Game Design · 🌐 Web Development · 🧊 3D Modelling · 🖼️ Adobe Photoshop
-
-**🏫 Trained At** — Emergio Games (Game Development & Game Design — 2-Year Professional Course)
 
 **👑 Currently** — Founder & CEO, Exurion Technologies
 
