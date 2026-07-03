@@ -63,30 +63,30 @@ Exurion Technologies is a full-service IT company founded by Ebin Biju, offering
 
 ### 🎮 Games Delivered
 
-| Project | Highlights | Status |
-|:---|:---|:---:|
-| [**Runner Max**](https://github.com/EBINBIJU138/runner-max) | 2D endless runner — coins, enemies, collision & scoring | ✅ Complete |
-| [**Ghost Fight**](https://github.com/EBINBIJU138/the-sky-war) | Action combat with ghost characters & enemy AI | ✅ Complete |
-| [**Car Multiplayer**](https://github.com/EBINBIJU138/CAR-MULTIPLAYER) | Real-time multiplayer racing with networked physics | ✅ Complete |
-| [**Forest Hunt**](https://github.com/EBINBIJU138/the-forest-hunt) | Open-world hunting with AI wildlife & level design | ✅ Complete |
-| [**Snake & Ladder**](https://github.com/EBINBIJU138/snake-and-ladder) | Digital board game with dice & turn management | ✅ Complete |
+| Project | Stack | Highlights | Status |
+|:---|:---|:---|:---:|
+| [**Runner Max**](https://github.com/EBINBIJU138/runner-max) | Unity · C# | 2D endless runner — coins, enemies, collision & scoring | ✅ Complete |
+| [**Ghost Fight**](https://github.com/EBINBIJU138/the-sky-war) | Unity · C# · AI | Action combat with ghost characters & enemy AI | ✅ Complete |
+| [**Car Multiplayer**](https://github.com/EBINBIJU138/CAR-MULTIPLAYER) | Unity · Netcode | Real-time multiplayer racing with networked physics | ✅ Complete |
+| [**Forest Hunt**](https://github.com/EBINBIJU138/the-forest-hunt) | Unity · C# · AI | Open-world hunting with AI wildlife & level design | ✅ Complete |
+| [**Snake & Ladder**](https://github.com/EBINBIJU138/snake-and-ladder) | Unity · C# | Digital board game with dice & turn management | ✅ Complete |
 
 ### 🤖 Apps & Products
 
-| Project | Highlights | Status |
-|:---|:---|:---:|
-| **Discord Bot — AutoMod** | Advanced moderation bot with AI filter, auto-roles & slash commands | ✅ Complete |
-| **AI Chatbot Integration** | Custom AI chatbot embedded into web apps with context memory | 📋 Roadmap |
-| **Inventory Manager Tool** | Desktop tool for stock tracking, alerts, reports & barcode scanning | 📋 Roadmap |
-| **Portfolio CMS** | Headless CMS-powered portfolio with admin panel & dynamic content | 📋 Roadmap |
+| Project | Stack | Highlights | Status |
+|:---|:---|:---|:---:|
+| **Discord Bot — AutoMod** | Node.js · Discord.js · MongoDB | Advanced moderation bot with AI filter, auto-roles & slash commands | ✅ Complete |
+| **AI Chatbot Integration** | Python · FastAPI · OpenAI | Custom AI chatbot embedded into web apps with context memory | 📋 Roadmap |
+| **Inventory Manager Tool** | Electron · IndexedDB · Chart.js | Desktop tool for stock tracking, alerts, reports & barcode scanning | 📋 Roadmap |
+| **Portfolio CMS** | Next.js · Sanity.io · Vercel | Headless CMS-powered portfolio with admin panel & dynamic content | 📋 Roadmap |
 
 ### 🚧 In Development at Exurion
 
-| Project | Highlights | Status |
-|:---|:---|:---:|
-| **Kerala Truck Simulator** | Realistic Kerala highways, trucks & traffic — open-world driving sim | 📋 In Planning |
-| **Kerala IT Simulator** | Simulate running a Kerala IT startup — hiring, projects & growth | 📋 In Planning |
-| **Media Converter Suite** | Cross-platform converter — MP3, MP4, WAV, AAC, FLAC & 20+ formats; mobile & desktop | 📋 In Planning |
+| Project | Stack | Highlights | Status |
+|:---|:---|:---|:---:|
+| **Kerala Truck Simulator** | Unreal Engine 5 · C++ · Blueprint | Realistic Kerala highways, trucks & traffic — open-world driving sim | 📋 In Planning |
+| **Kerala IT Simulator** | Unity · C# · React.js | Simulate running a Kerala IT startup — hiring, projects & growth | 📋 In Planning |
+| **Media Converter Suite** | Flutter · Electron · React Native · FFmpeg | Cross-platform converter — MP3, MP4, WAV, AAC, FLAC & 20+ formats; mobile & desktop | 📋 In Planning |
 
 ---
 
