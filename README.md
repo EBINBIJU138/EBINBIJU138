@@ -8,6 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 [![Company](https://img.shields.io/badge/Exurion_Technologies-Website-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white)](#)
 [![Solo Founder](https://img.shields.io/badge/Solo_Founder-Hiring_Soon-FF4B4B?style=flat-square&logo=googlechrome&logoColor=white)](#)
+[![Startup](https://img.shields.io/badge/Exurion-Startup-00C896?style=flat-square&logo=rocket&logoColor=white)](#)
 
 </div>
 
@@ -48,6 +49,7 @@ Exurion Technologies is a full-service technology company founded and solely led
 | | |
 |:---|:---|
 | **🏗️ Founder & CEO** | Ebin Biju |
+| **🌱 Company Stage** | Startup — early-stage, founder-led |
 | **🏢 Office** | Virtual headquarters — solo-operated, remote-first |
 | **👤 Staff** | Currently solo-operated — staff & employee hiring planned soon |
 | **🎯 Core Services** | Game Development · Game Source Code Licensing · App Development · Web Development · E-Commerce Solutions · Custom Software |
