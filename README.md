@@ -42,7 +42,7 @@ Exurion Technologies is a full-service IT company founded by Ebin Biju, offering
 |:---|:---|
 | **🏗️ Founded & Led By** | Ebin Biju |
 | **🏢 Office** | Virtual Office — remote-first team |
-| **🎯 Core Services** | Game Development · App Development · Web Development · Custom Software |
+| **🎯 Core Services** | Game Development · App Development · Web Development · E-Commerce Websites · Custom Software |
 | **🌍 Engagement Model** | End-to-end delivery — concept, build, and launch |
 | **📈 Origin** | Founded on a hands-on foundation in game development & design |
 
@@ -79,6 +79,7 @@ Exurion Technologies is a full-service IT company founded by Ebin Biju, offering
 | **AI Chatbot Integration** | Python · FastAPI · OpenAI · LangChain | Custom AI chatbot embedded into web apps with context memory | 📋 Roadmap |
 | **Inventory Manager Tool** | Electron · IndexedDB · Chart.js · Node.js | Desktop tool for stock tracking, alerts, reports & barcode scanning | 📋 Roadmap |
 | **Portfolio CMS** | Next.js · Sanity.io · Vercel · Tailwind CSS | Headless CMS-powered portfolio with admin panel & dynamic content | 📋 Roadmap |
+| **E-Commerce Website** | Next.js · Shopify · Stripe · Razorpay | Full online store with product catalog, cart & secure checkout | 📋 Roadmap |
 
 ### 🚧 In Development at Exurion
 
