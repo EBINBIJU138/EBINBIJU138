@@ -155,6 +155,7 @@ Exurion Technologies is a full-service IT company founded by Ebin Biju, offering
 <div align="center">
 
 [![Company](https://img.shields.io/badge/Company-exuriontechnologies%40gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:exuriontechnologies@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_CODE)
 
 **For business inquiries, partnerships, or project collaboration — reach out via the company email above.**
 
@@ -169,3 +170,4 @@ Exurion Technologies is a full-service IT company founded by Ebin Biju, offering
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+
