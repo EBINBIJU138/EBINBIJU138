@@ -91,7 +91,29 @@ Exurion Technologies is a full-service IT company founded by Ebin Biju, offering
 
 ---
 
-## 📊 GitHub Activity
+## 🧰 All Technologies Used
+
+<div align="center">
+
+**🎮 Game Development** — Unity · Unreal Engine 5 · C# · C++ · Blueprint · Lumen · Netcode · Photon · NavMesh · UI Toolkit · Animation Rigging · Game AI · Visual Studio
+
+**🌐 Web Development** — React.js · Next.js · Node.js · Express · HTML5 · CSS3 · JavaScript · Tailwind CSS
+
+**📱 App Development** — Flutter · React Native
+
+**🤖 AI & Automation** — Python · FastAPI · OpenAI · LangChain · Discord.js
+
+**🗄️ Database & Storage** — MongoDB · MySQL · IndexedDB
+
+**🛒 E-Commerce & CMS** — Shopify · Stripe · Razorpay · Sanity.io
+
+**🧊 3D, Design & Tools** — Blender · Maya · Adobe Photoshop · Figma · Electron · Chart.js · FFmpeg · Vercel
+
+</div>
+
+---
+
+
 
 <div align="center">
 
