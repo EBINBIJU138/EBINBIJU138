@@ -39,7 +39,7 @@ const executive = {
 ## 🏢 Company Overview — Exurion Technologies
 
 <div align="center">
-
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500">
 </div>
 
 
@@ -58,10 +58,22 @@ Exurion Technologies is a full-service technology company founded and solely led
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
+## 🎯 Vision & Roadmap
+
+```
+Now      →  Solo-led delivery across games, apps, web, and e-commerce
+Near-term →  First hires — expanding into a core engineering & design team
+Mid-term →  AI-powered product line — intelligent tooling built into every service
+Long-term →  Exurion as a full-scale multi-disciplinary technology studio
+```
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+
 ## 🧭 Executive Leadership Philosophy
 
 <div align="center">
-
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="150">
+</div>
 
 ```
 Ship with intent       →  Every roadmap decision tied to a clear business outcome
@@ -168,6 +180,18 @@ Advanced UI/UX                 →  Prototyping, design systems, motion design
 Advanced App Development       →  State management, custom animations
 Bot & Automation Development   →  AI integration, workflow automation
 ```
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+
+## 💼 Why Work With Exurion
+
+| Advantage | What It Means |
+|:---|:---|
+| **Direct CEO Involvement** | No account managers or middle layers — you work directly with the Founder |
+| **End-to-End Delivery** | Strategy, design, development, and hosting handled under one roof |
+| **Cross-Domain Expertise** | Games, web, apps, e-commerce, and AI — one partner for multiple needs |
+| **Lean & Accountable** | A solo-led studio means faster decisions and full ownership of outcomes |
+| **Future-Ready** | Actively investing in AI capabilities ahead of scaling the team |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
