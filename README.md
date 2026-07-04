@@ -107,7 +107,7 @@ Exurion Technologies is a full-service IT company founded by Ebin Biju, offering
 
 <div align="center">
 
-**🎯 Domains** — 🎮 Game Development · 🎨 Game Design · 🌐 Web Development · 📱 App Development · 🎯 UI/UX Design · 🧊 3D Modelling · 🖼️ Adobe Photoshop
+**🎯 Domains** — 🎮 Game Development · 🕹️ Game Mechanics & Level Design · 🧠 Game AI · 🎨 Game Design · 🌐 Web Development · 🖥️ Full-Stack Development · 📱 App Development · 🎯 UI/UX Design · 🧊 3D Modelling · 🖼️ Adobe Photoshop · 🗄️ MySQL Database Services
 
 **👑 Currently** — Founder & CEO, Exurion Technologies
 
