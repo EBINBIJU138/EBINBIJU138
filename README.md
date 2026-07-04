@@ -1,12 +1,13 @@
 <div align="center">
 
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ebin%20Biju&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder%20%26%20CEO%20%40%20Exurion%20Technologies&descAlignY=62&descSize=15&descColor=fff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=820&lines=Founder+%26+CEO+%40+Exurion+Technologies+%F0%9F%8F%A2;Leading+Product%2C+Engineering+%26+Strategy+%E2%9A%A1;Full-Service+Technology+%26+Game+Studio+%F0%9F%92%BB;Code.+Create.+Conquer.+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ebiju127&color=70a5fd&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 [![Company](https://img.shields.io/badge/Exurion_Technologies-Website-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white)](#)
+[![Solo Founder](https://img.shields.io/badge/Solo_Founder-No_Staff-FF4B4B?style=flat-square&logo=googlechrome&logoColor=white)](#)
 
 </div>
 
@@ -54,6 +55,10 @@ Exurion Technologies is a full-service technology company founded and solely led
 
 ## 🧭 Executive Leadership Philosophy
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif" width="150">
+</div>
+
 ```
 Ship with intent       →  Every roadmap decision tied to a clear business outcome
 Architect for scale    →  Systems built to grow, ready to scale when the time comes
@@ -64,6 +69,10 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical or strateg
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
 ## 🚀 Product & Engagement Portfolio
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="600">
+</div>
 
 ### 🎮 Games Delivered
 
@@ -163,6 +172,10 @@ Bot & Automation Development   →  AI integration, workflow automation
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
 ## 📬 Connect
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d3-4a3d-bb17-c11a3a1ea2f2.gif" width="150">
+</div>
 
 <div align="center">
 
