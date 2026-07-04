@@ -49,6 +49,7 @@ Exurion Technologies is a full-service technology company founded and solely led
 | | |
 |:---|:---|
 | **🏗️ Founder & CEO** | Ebin Biju |
+| **📅 Founded** | December 2025 |
 | **🌱 Company Stage** | Startup — early-stage, founder-led |
 | **🏢 Office** | Virtual headquarters — solo-operated, remote-first |
 | **👤 Staff** | Currently solo-operated — staff & employee hiring planned soon |
@@ -62,10 +63,18 @@ Exurion Technologies is a full-service technology company founded and solely led
 
 ## 🎯 Vision & Roadmap
 
+| Phase | Timeline | Focus | Key Goals |
+|:---:|:---|:---|:---|
+| **Phase 1** | Now | 🏗️ Foundation | Solo-led delivery across games, apps, web & e-commerce · Build portfolio & client base |
+| **Phase 2** | Near-Term | 👥 First Hires | Bring on core engineering & design talent · Formalize internal processes |
+| **Phase 3** | Mid-Term | 🤖 AI Integration | Launch AI-powered products & tooling · Embed AI into existing service lines |
+| **Phase 4** | Long-Term | 🏢 Scale | Grow into a full-scale multi-disciplinary technology studio · Expand hosting & infrastructure capacity |
+| **Phase 5** | Vision | 🌍 Market Leadership | Establish Exurion as a recognized technology brand across games, web, and AI |
+
 ```
-Now      →  Solo-led delivery across games, apps, web, and e-commerce
+Now       →  Solo-led delivery across games, apps, web, and e-commerce
 Near-term →  First hires — expanding into a core engineering & design team
-Mid-term →  AI-powered product line — intelligent tooling built into every service
+Mid-term  →  AI-powered product line — intelligent tooling built into every service
 Long-term →  Exurion as a full-scale multi-disciplinary technology studio
 ```
 
