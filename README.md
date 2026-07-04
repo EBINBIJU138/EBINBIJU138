@@ -16,17 +16,17 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-**Ebin Biju** is the **Founder & CEO of Exurion Technologies**, a full-service IT company delivering games, apps, and web products end-to-end — from concept and architecture through to launch and scale.
+**Ebin Biju** is the **Founder & CEO of Exurion Technologies**, a full-service IT company delivering games, applications, and web products end-to-end — from concept and architecture through to launch and long-term scale.
 
-With a hands-on foundation in game development and design, Ebin built Exurion's approach to product engineering around a simple principle: ship fast, build for scale, and never compromise on craft.
+Ebin's approach to product engineering is built on a simple standard: ship with intent, architect for scale, and never compromise on craft. That standard shapes every product Exurion delivers, from indie games to enterprise-grade platforms.
 
 ```
 const founder = {
-  name:      "Ebin Biju",
-  role:      "👑 Founder & CEO, Exurion Technologies",
-  focus:     ["Product Strategy", "Technical Architecture", "Team Leadership"],
-  builds:    ["Games", "Apps", "Web Platforms"],
-  motto:     "Code. Create. Conquer. 🚀"
+  name:   "Ebin Biju",
+  role:   "Founder & CEO, Exurion Technologies",
+  focus:  ["Product Strategy", "Technical Architecture", "Team Leadership"],
+  builds: ["Games", "Applications", "Web Platforms", "Digital Infrastructure"],
+  motto:  "Code. Create. Conquer."
 };
 ```
 
@@ -36,26 +36,26 @@ const founder = {
 
 ## 🏢 About Exurion Technologies
 
-Exurion Technologies is a full-service IT company founded by Ebin Biju, offering end-to-end development across game production, mobile/web applications, and custom software — combining a founder's product judgment with a hands-on engineering team.
+Exurion Technologies is a full-service IT company founded by Ebin Biju, delivering end-to-end development across game production, web and mobile applications, e-commerce, and custom software — backed by dedicated hosting infrastructure and a founder who leads from the front.
 
 | | |
 |:---|:---|
 | **🏗️ Founded & Led By** | Ebin Biju |
-| **🏢 Office** | Virtual Office — remote-first team |
-| **🎯 Core Services** | Game Development · Game Source Code · App Development · Web Development · E-Commerce Websites · Custom Software |
-| **🖥️ Hosting Services** | Web Hosting · Bot Hosting · Game Server Hosting (self-managed, non-cloud) |
+| **🏢 Office** | Virtual office — remote-first team |
+| **🎯 Core Services** | Game Development · Game Source Code Licensing · App Development · Web Development · E-Commerce Solutions · Custom Software |
+| **🖥️ Hosting Services** | Web Hosting · Bot Hosting · Game Server Hosting *(self-managed infrastructure)* |
 | **🌍 Engagement Model** | End-to-end delivery — concept, build, and launch |
-| **📈 Origin** | Founded on a hands-on foundation in game development & design |
+| **📈 Origin** | Founded on a hands-on foundation in game development and design |
 
 ---
 
 ## 🧭 Leadership Philosophy
 
 ```
-🎯 Ship with intent      →  Every feature tied to a clear product outcome
-🏗️ Architect for scale   →  Systems built to grow, not just to demo
-🤝 Lead by building      →  Founder who codes, designs, and ships alongside the team
-⚡ Move fast, stay sharp →  Rapid iteration without cutting technical corners
+Ship with intent       →  Every feature tied to a clear product outcome
+Architect for scale    →  Systems built to grow, not just to demo
+Lead by building       →  A founder who codes, designs, and ships alongside the team
+Move fast, stay sharp  →  Rapid iteration without cutting technical corners
 ```
 
 ---
@@ -66,57 +66,52 @@ Exurion Technologies is a full-service IT company founded by Ebin Biju, offering
 
 | Project | Stack | Highlights | Status |
 |:---|:---|:---|:---:|
-| [**Runner Max**](https://github.com/EBINBIJU138/runner-max) | Unity · C# · Visual Studio | 2D endless runner — coins, enemies, collision & scoring | ✅ Complete |
-| [**Ghost Fight**](https://github.com/EBINBIJU138/the-sky-war) | Unity · C# · AI · Animation Rigging | Action combat with ghost characters & enemy AI | ✅ Complete |
+| [**Runner Max**](https://github.com/EBINBIJU138/runner-max) | Unity · C# · Visual Studio | 2D endless runner with scoring, collision, and enemy systems | ✅ Complete |
+| [**Ghost Fight**](https://github.com/EBINBIJU138/the-sky-war) | Unity · C# · AI · Animation Rigging | Action combat title with enemy AI and character animation | ✅ Complete |
 | [**Car Multiplayer**](https://github.com/EBINBIJU138/CAR-MULTIPLAYER) | Unity · Netcode · Photon | Real-time multiplayer racing with networked physics | ✅ Complete |
-| [**Forest Hunt**](https://github.com/EBINBIJU138/the-forest-hunt) | Unity · C# · AI · NavMesh | Open-world hunting with AI wildlife & level design | ✅ Complete |
-| [**Snake & Ladder**](https://github.com/EBINBIJU138/snake-and-ladder) | Unity · C# · UI Toolkit | Digital board game with dice & turn management | ✅ Complete |
+| [**Forest Hunt**](https://github.com/EBINBIJU138/the-forest-hunt) | Unity · C# · AI · NavMesh | Open-world hunting game with AI wildlife and level design | ✅ Complete |
+| [**Snake & Ladder**](https://github.com/EBINBIJU138/snake-and-ladder) | Unity · C# · UI Toolkit | Digital board game with turn management and dice logic | ✅ Complete |
 
-### 🤖 Apps & Products
+### 🤖 Applications & Products
 
 | Project | Stack | Highlights | Status |
 |:---|:---|:---|:---:|
-| **Discord Bot — AutoMod** | Node.js · Discord.js · MongoDB · Express | Advanced moderation bot with AI filter, auto-roles & slash commands | ✅ Complete |
-| **AI Chatbot Integration** | Python · FastAPI · OpenAI · LangChain | Custom AI chatbot embedded into web apps with context memory | 📋 Roadmap |
-| **Inventory Manager Tool** | Electron · IndexedDB · Chart.js · Node.js | Desktop tool for stock tracking, alerts, reports & barcode scanning | 📋 Roadmap |
-| **Portfolio CMS** | Next.js · Sanity.io · Vercel · Tailwind CSS | Headless CMS-powered portfolio with admin panel & dynamic content | 📋 Roadmap |
-| **E-Commerce Website** | Next.js · Shopify · Stripe · Razorpay | Full online store with product catalog, cart & secure checkout | 📋 Roadmap |
+| **Discord Bot — AutoMod** | Node.js · Discord.js · MongoDB · Express | Moderation bot with AI filtering, auto-roles, and slash commands | ✅ Complete |
+| **AI Chatbot Integration** | Python · FastAPI · OpenAI · LangChain | Context-aware AI chatbot embedded into web applications | 📋 Roadmap |
+| **Inventory Manager Tool** | Electron · IndexedDB · Chart.js · Node.js | Desktop stock-tracking tool with alerts, reports, and barcode scanning | 📋 Roadmap |
+| **Portfolio CMS** | Next.js · Sanity.io · Vercel · Tailwind CSS | Headless CMS-driven portfolio with an admin panel and dynamic content | 📋 Roadmap |
+| **E-Commerce Website** | Next.js · Shopify · Stripe · Razorpay | Full online storefront with catalog, cart, and secure checkout | 📋 Roadmap |
 
 ### 🚧 In Development at Exurion
 
 | Project | Stack | Highlights | Status |
 |:---|:---|:---|:---:|
-| **Kerala Truck Simulator** | Unreal Engine 5 · C++ · Blueprint · Lumen | Realistic Kerala highways, trucks & traffic — open-world driving sim | 📋 In Planning |
-| **Kerala IT Simulator** | Unity · C# · React.js · Node.js | Simulate running a Kerala IT startup — hiring, projects & growth | 📋 In Planning |
-| **Media Converter Suite** | Flutter · Electron · React Native · FFmpeg · Node.js | Cross-platform converter — MP3, MP4, WAV, AAC, FLAC & 20+ formats; mobile & desktop | 📋 In Planning |
+| **Kerala Truck Simulator** | Unreal Engine 5 · C++ · Blueprint · Lumen | Open-world driving simulation featuring realistic Kerala highways and traffic | 📋 In Planning |
+| **Kerala IT Simulator** | Unity · C# · React.js · Node.js | Business simulation of running a Kerala IT startup | 📋 In Planning |
+| **Media Converter Suite** | Flutter · Electron · React Native · FFmpeg · Node.js | Cross-platform converter supporting 20+ audio/video formats | 📋 In Planning |
 
 ---
 
-## 🧰 All Technologies Used
+## 🧰 Technology Portfolio
 
 <div align="center">
 
-**🎮 Game Development** — Unity · Unreal Engine 5 · C# · C++ · Blueprint · Lumen · Netcode · Photon · NavMesh · UI Toolkit · Animation Rigging · Game AI · Visual Studio · Android · Windows · Web (WebGL)
-
-**🌐 Web Development** — React.js · Next.js · Node.js · Express · HTML5 · CSS3 · JavaScript · Tailwind CSS
-
-**📱 App Development** — Flutter · React Native
-
-**🤖 AI & Automation** — Python · FastAPI · OpenAI · LangChain · Discord.js
-
-**🗄️ Database & Storage** — MongoDB · MySQL · Firebase · IndexedDB
-
-**🛒 E-Commerce & CMS** — Shopify · Stripe · Razorpay · Sanity.io
-
-**🧊 3D, Design & Tools** — Blender · Maya · Adobe Photoshop · Figma · Electron · Chart.js · FFmpeg · Vercel
-
-**🖥️ Hosting** — Web Hosting · Bot Hosting · Game Server Hosting (self-managed, non-cloud)
+| Category | Technologies |
+|:---|:---|
+| 🎮 **Game Development** | Unity · Unreal Engine 5 · C# · C++ · Blueprint · Lumen · Netcode · Photon · NavMesh · UI Toolkit · Animation Rigging · Game AI · Android · Windows · Web (WebGL) |
+| 🌐 **Web Development** | React.js · Next.js · Node.js · Express · HTML5 · CSS3 · JavaScript · Tailwind CSS |
+| 📱 **App Development** | Flutter · React Native |
+| 🤖 **AI & Automation** | Python · FastAPI · OpenAI · LangChain · Discord.js |
+| 🗄️ **Database & Storage** | MongoDB · MySQL · Firebase · IndexedDB |
+| 🛒 **E-Commerce & CMS** | Shopify · Stripe · Razorpay · Sanity.io |
+| 🧊 **3D, Design & Tooling** | Blender · Maya · Adobe Photoshop · Figma · Electron · Chart.js · FFmpeg · Vercel |
+| 🖥️ **Hosting & Infrastructure** | Web Hosting · Bot Hosting · Game Server Hosting *(self-managed)* |
 
 </div>
 
 ---
 
-
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -132,7 +127,13 @@ Exurion Technologies is a full-service IT company founded by Ebin Biju, offering
 
 <div align="center">
 
-**🎯 Domains** — 🎮 Game Development · 💾 Game Source Code · 🕹️ Game Mechanics & Level Design · 🧠 Game AI · 🎨 Game Design · 🌐 Web Development · 🖥️ Full-Stack Development · 📱 App Development · 🎯 UI/UX Design · 🧊 3D Modelling · 🖼️ Adobe Photoshop · 🗄️ MySQL Database Services · 🤖 AI Chatbot Development · 🔊 Discord Bot Development · 🛒 E-Commerce Development · ☁️ Web Hosting & Server Management · 🎬 Motion Graphics · 🧩 Multiplayer Networking
+| Category | Expertise |
+|:---|:---|
+| 🎮 **Game** | Game Development · Game Source Code · Game Mechanics & Level Design · Game AI · Game Design · Multiplayer Networking |
+| 🌐 **Web & App** | Web Development · Full-Stack Development · App Development · E-Commerce Development |
+| 🎨 **Design** | UI/UX Design · 3D Modelling · Adobe Photoshop · Motion Graphics |
+| 🤖 **AI & Bots** | AI Chatbot Development · Discord Bot Development |
+| 🗄️ **Infrastructure** | MySQL Database Services · Web Hosting & Server Management |
 
 **👑 Currently** — Founder & CEO, Exurion Technologies
 
@@ -143,11 +144,11 @@ Exurion Technologies is a full-service IT company founded by Ebin Biju, offering
 ## ✅ Recently Sharpened
 
 ```
-🎮 Advanced Game Engine Workflows  →  Realistic rendering & character systems
-☁️  Cloud & DevOps                 →  Scalable infrastructure & automated deployment
-🎨 Advanced UI/UX                  →  Prototyping, design systems, motion design
-📱 Advanced App Development        →  State management, custom animations
-🤖 Bot & Automation Development    →  AI integration, workflow automation
+Advanced Game Engine Workflows  →  Realistic rendering & character systems
+Cloud & DevOps                 →  Scalable infrastructure & automated deployment
+Advanced UI/UX                 →  Prototyping, design systems, motion design
+Advanced App Development       →  State management, custom animations
+Bot & Automation Development   →  AI integration, workflow automation
 ```
 
 ---
