@@ -1,6 +1,6 @@
 <div align="center">
 
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ebin%20Biju&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder%20%26%20CEO%20%40%20Exurion%20Technologies&descAlignY=62&descSize=15&descColor=fff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=820&lines=Founder+%26+CEO+%40+Exurion+Technologies+%F0%9F%8F%A2;Leading+Product%2C+Engineering+%26+Strategy+%E2%9A%A1;Full-Service+Technology+%26+Game+Studio+%F0%9F%92%BB;Code.+Create.+Conquer.+%F0%9F%94%A5)](https://git.io/typing-svg)
 
@@ -68,6 +68,23 @@ Near-term →  First hires — expanding into a core engineering & design team
 Mid-term →  AI-powered product line — intelligent tooling built into every service
 Long-term →  Exurion as a full-scale multi-disciplinary technology studio
 ```
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+
+## 📊 Business & Entrepreneurship
+
+Beyond writing code, Ebin operates as a founder — owning strategy, finances, client relationships, and growth decisions for Exurion Technologies from day one.
+
+| Focus Area | What It Involves |
+|:---|:---|
+| **🚀 Company Building** | Took Exurion from concept to an operating full-service technology company |
+| **💰 Business Development** | Client acquisition, service pricing, and deal structuring |
+| **📐 Product Strategy** | Deciding what to build, when to build it, and how it fits the market |
+| **🤝 Client Relationships** | Direct ownership of client communication — no middle layers |
+| **📈 Growth Planning** | Scaling from solo founder to a hiring, multi-service technology studio |
+| **🧠 Risk & Decision-Making** | Full accountability for every strategic and technical call the company makes |
+
+**Entrepreneurial Path** — 2 years hands-on experience in game development and design → founded Exurion Technologies → built and shipped a multi-project portfolio solo → now scaling toward AI and a growing team.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
@@ -194,6 +211,20 @@ Bot & Automation Development   →  AI integration, workflow automation
 | **Cross-Domain Expertise** | Games, web, apps, e-commerce, and AI — one partner for multiple needs |
 | **Lean & Accountable** | A solo-led studio means faster decisions and full ownership of outcomes |
 | **Future-Ready** | Actively investing in AI capabilities ahead of scaling the team |
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+
+## 🔄 Engagement Process
+
+```
+1. Discovery      →  Understand goals, constraints, and success criteria
+2. Strategy       →  Define scope, architecture, timeline, and stack
+3. Build           →  Iterative development with regular checkpoints
+4. Launch          →  Deployment, hosting setup, and go-live support
+5. Support         →  Post-launch maintenance, monitoring, and iteration
+```
+
+Every engagement is led directly by the Founder & CEO — from the first conversation to post-launch support — ensuring consistent accountability and a single point of contact throughout.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
