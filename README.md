@@ -1,6 +1,6 @@
 <div align="center">
 
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ebin%20Biju&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder%20%26%20CEO%20%40%20Exurion%20Technologies&descAlignY=62&descSize=15&descColor=fff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=820&lines=Founder+%26+CEO+%40+Exurion+Technologies+%F0%9F%8F%A2;Leading+Product%2C+Engineering+%26+Strategy+%E2%9A%A1;Full-Service+Technology+%26+Game+Studio+%F0%9F%92%BB;Code.+Create.+Conquer.+%F0%9F%94%A5)](https://git.io/typing-svg)
 
@@ -40,7 +40,7 @@ const executive = {
 ## 🏢 Company Overview — Exurion Technologies
 
 <div align="center">
-
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500">
 </div>
 
 
@@ -52,7 +52,7 @@ Exurion Technologies is a full-service technology company founded and solely led
 | **🌱 Company Stage** | Startup — early-stage, founder-led |
 | **🏢 Office** | Virtual headquarters — solo-operated, remote-first |
 | **👤 Staff** | Currently solo-operated — staff & employee hiring planned soon |
-| **🎯 Core Services** | Game Development · Game Source Code Licensing · App Development · Web Development · E-Commerce Solutions · Custom Software |
+| **🎯 Core Services** | Game Development · Game Source Code Licensing · App Development · Web Development · E-Commerce Solutions · Custom Software · Post-Launch Support |
 | **🖥️ Hosting Services** | Web Hosting · Bot Hosting · Game Server Hosting *(self-managed infrastructure)* |
 | **🌍 Engagement Model** | End-to-end delivery — strategy, build, and launch |
 | **📈 Origin** | Founded on a hands-on foundation in game development and design |
@@ -225,6 +225,31 @@ Bot & Automation Development   →  AI integration, workflow automation
 ```
 
 Every engagement is led directly by the Founder & CEO — from the first conversation to post-launch support — ensuring consistent accountability and a single point of contact throughout.
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+
+## 🛠️ Support
+
+| | |
+|:---|:---|
+| **📩 Support Channel** | Company email & Discord server |
+| **🕒 Response Model** | Direct founder support — no ticketing layers |
+| **🔧 Scope** | Bug fixes, hosting issues, feature requests, and general maintenance |
+| **🔁 Post-Launch Coverage** | Included as part of every project engagement |
+
+Support requests are handled personally by the Founder & CEO to ensure fast, accountable responses.
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+
+## 💖 Sponsorship
+
+<div align="center">
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-Support_Exurion-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/EBINBIJU138)
+
+Support the growth of Exurion Technologies — sponsorships help fund open-source projects, tooling, and the transition toward AI-powered products.
+
+</div>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
