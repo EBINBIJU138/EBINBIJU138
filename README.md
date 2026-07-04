@@ -126,7 +126,7 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical or strateg
 | 🧊 **3D, Design & Tooling** | Blender · Maya · Adobe Photoshop · Figma · Electron · Chart.js · FFmpeg · Vercel |
 | 🖥️ **Hosting & Infrastructure** | Web Hosting · Bot Hosting · Game Server Hosting *(self-managed)* |
 | 🚫☁️ **Non-Cloud** | Dedicated self-managed servers — no third-party cloud providers |
-| 🔧 **Version Control & Deployment** | Git · GitHub · Vercel · Netlify |
+| 🔧 **Version Control & Deployment** | Git · Vercel · Netlify |
 
 </div>
 
