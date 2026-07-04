@@ -38,9 +38,7 @@ const executive = {
 
 ## 🏢 Company Overview — Exurion Technologies
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500">
-</div>
+
 
 
 Exurion Technologies is a full-service technology company founded and solely led by Ebin Biju, delivering end-to-end development across game production, web and mobile applications, e-commerce, and custom software — backed by dedicated hosting infrastructure. Every product is currently built and delivered directly by the Founder & CEO, with no additional staff. The company is now expanding its focus toward AI, integrating intelligent systems into its product lines and service offerings.
