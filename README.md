@@ -132,21 +132,6 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical or strateg
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
-## 📊 GitHub Activity
-
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=EBINBIJU138&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="70%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EBINBIJU138&theme=tokyonight&hide_border=true" width="70%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=EBINBIJU138&theme=tokyonight&no-frame=true&row=1&column=6" width="90%" />
-
-</div>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
-
 ## 🏆 Executive Background & Credentials
 
 <div align="center">
