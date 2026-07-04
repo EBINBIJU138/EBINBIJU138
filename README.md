@@ -110,6 +110,8 @@ Exurion Technologies is a full-service IT company founded by Ebin Biju, offering
 
 **🧊 3D, Design & Tools** — Blender · Maya · Adobe Photoshop · Figma · Electron · Chart.js · FFmpeg · Vercel
 
+**🖥️ Hosting** — Web Hosting · Bot Hosting · Game Server Hosting (self-managed, non-cloud)
+
 </div>
 
 ---
@@ -170,4 +172,3 @@ Exurion Technologies is a full-service IT company founded by Ebin Biju, offering
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
-
