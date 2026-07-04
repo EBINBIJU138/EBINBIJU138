@@ -1,11 +1,13 @@
 <div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ebin%20Biju&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder%20%26%20CEO%20%40%20Exurion%20Technologies&descAlignY=62&descSize=15&descColor=fff)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=820&lines=Founder+%26+CEO+%40+Exurion+Technologies+%F0%9F%8F%A2;Leading+Product%2C+Engineering+%26+Strategy+%E2%9A%A1;Full-Service+Technology+%26+Game+Studio+%F0%9F%92%BB;Code.+Create.+Conquer.+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ebiju127&color=70a5fd&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
 [![Company](https://img.shields.io/badge/Exurion_Technologies-Website-6C5CE7?style=flat-square&logo=googlechrome&logoColor=white)](#)
-[![Solo Founder](https://img.shields.io/badge/Solo_Founder-No_Staff-FF4B4B?style=flat-square&logo=googlechrome&logoColor=white)](#)
+[![Solo Founder](https://img.shields.io/badge/Solo_Founder-Hiring_Soon-FF4B4B?style=flat-square&logo=googlechrome&logoColor=white)](#)
 
 </div>
 
@@ -36,16 +38,18 @@ const executive = {
 
 ## 🏢 Company Overview — Exurion Technologies
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500">
+</div>
 
 
-
-Exurion Technologies is a full-service technology company founded and solely led by Ebin Biju, delivering end-to-end development across game production, web and mobile applications, e-commerce, and custom software — backed by dedicated hosting infrastructure. Every product is currently built and delivered directly by the Founder & CEO, with no additional staff. The company is now expanding its focus toward AI, integrating intelligent systems into its product lines and service offerings.
+Exurion Technologies is a full-service technology company founded and solely led by Ebin Biju, delivering end-to-end development across game production, web and mobile applications, e-commerce, and custom software — backed by dedicated hosting infrastructure. Every product is currently built and delivered directly by the Founder & CEO, with staff and employee hiring planned soon as the company scales. The company is now expanding its focus toward AI, integrating intelligent systems into its product lines and service offerings.
 
 | | |
 |:---|:---|
 | **🏗️ Founder & CEO** | Ebin Biju |
 | **🏢 Office** | Virtual headquarters — solo-operated, remote-first |
-| **👤 Staff** | None currently — all work is done directly by the Founder & CEO |
+| **👤 Staff** | Currently solo-operated — staff & employee hiring planned soon |
 | **🎯 Core Services** | Game Development · Game Source Code Licensing · App Development · Web Development · E-Commerce Solutions · Custom Software |
 | **🖥️ Hosting Services** | Web Hosting · Bot Hosting · Game Server Hosting *(self-managed infrastructure)* |
 | **🌍 Engagement Model** | End-to-end delivery — strategy, build, and launch |
