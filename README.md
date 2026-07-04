@@ -37,7 +37,7 @@ const executive = {
 
 ## 🏢 Company Overview — Exurion Technologies
 
-Exurion Technologies is a full-service technology company founded and led by Ebin Biju, delivering end-to-end development across game production, web and mobile applications, e-commerce, and custom software — backed by dedicated hosting infrastructure and executive leadership that stays close to the product.
+Exurion Technologies is a full-service technology company founded and led by Ebin Biju, delivering end-to-end development across game production, web and mobile applications, e-commerce, and custom software — backed by dedicated hosting infrastructure and executive leadership that stays close to the product. The company is now expanding its focus toward AI, integrating intelligent systems into its product lines and service offerings.
 
 | | |
 |:---|:---|
@@ -47,6 +47,7 @@ Exurion Technologies is a full-service technology company founded and led by Ebi
 | **🖥️ Hosting Services** | Web Hosting · Bot Hosting · Game Server Hosting *(self-managed infrastructure)* |
 | **🌍 Engagement Model** | End-to-end delivery — strategy, build, and launch |
 | **📈 Origin** | Founded on a hands-on foundation in game development and design |
+| **🚀 Strategic Direction** | Actively expanding into AI — building AI-powered products, tooling, and services |
 
 ---
 
