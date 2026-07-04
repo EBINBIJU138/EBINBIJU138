@@ -10,7 +10,7 @@
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
 ## 👤 Executive Profile
 
@@ -33,7 +33,7 @@ const executive = {
 
 <br clear="right"/>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
 ## 🏢 Company Overview — Exurion Technologies
 
@@ -49,7 +49,7 @@ Exurion Technologies is a full-service technology company founded and led by Ebi
 | **📈 Origin** | Founded on a hands-on foundation in game development and design |
 | **🚀 Strategic Direction** | Actively expanding into AI — building AI-powered products, tooling, and services |
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
 ## 🧭 Executive Leadership Philosophy
 
@@ -60,7 +60,7 @@ Lead by building       →  A CEO who codes, designs, and ships alongside the te
 Move fast, stay sharp  →  Rapid iteration without cutting technical or strategic corners
 ```
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
 ## 🚀 Product & Engagement Portfolio
 
@@ -92,11 +92,13 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical or strateg
 | **Kerala IT Simulator** | Unity · C# · React.js · Node.js | Business simulation of running a Kerala IT startup | 📋 In Planning |
 | **Media Converter Suite** | Flutter · Electron · React Native · FFmpeg · Node.js | Cross-platform converter supporting 20+ audio/video formats | 📋 In Planning |
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
 ## 🧰 Technology Portfolio
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="180">
 
 | Category | Technologies |
 |:---|:---|
@@ -111,7 +113,7 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical or strateg
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
 ## 📊 GitHub Activity
 
@@ -121,9 +123,11 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical or strateg
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=EBINBIJU138&theme=tokyonight&hide_border=true" width="70%" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=EBINBIJU138&theme=tokyonight&no-frame=true&row=1&column=6" width="90%" />
+
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
 ## 🏆 Executive Background & Credentials
 
@@ -141,7 +145,7 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical or strateg
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
 ## ✅ Recently Sharpened
 
@@ -153,7 +157,7 @@ Advanced App Development       →  State management, custom animations
 Bot & Automation Development   →  AI integration, workflow automation
 ```
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
 ## 📬 Connect
 
@@ -166,7 +170,7 @@ Bot & Automation Development   →  AI integration, workflow automation
 
 </div>
 
----
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
 <div align="center">
 
