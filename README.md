@@ -43,6 +43,7 @@ Exurion Technologies is a full-service IT company founded by Ebin Biju, offering
 | **🏗️ Founded & Led By** | Ebin Biju |
 | **🏢 Office** | Virtual Office — remote-first team |
 | **🎯 Core Services** | Game Development · App Development · Web Development · E-Commerce Websites · Custom Software |
+| **☁️ Hosting Services** | Web Hosting · Bot Hosting · Game Server Hosting |
 | **🌍 Engagement Model** | End-to-end delivery — concept, build, and launch |
 | **📈 Origin** | Founded on a hands-on foundation in game development & design |
 
@@ -95,7 +96,7 @@ Exurion Technologies is a full-service IT company founded by Ebin Biju, offering
 
 <div align="center">
 
-**🎮 Game Development** — Unity · Unreal Engine 5 · C# · C++ · Blueprint · Lumen · Netcode · Photon · NavMesh · UI Toolkit · Animation Rigging · Game AI · Visual Studio
+**🎮 Game Development** — Unity · Unreal Engine 5 · C# · C++ · Blueprint · Lumen · Netcode · Photon · NavMesh · UI Toolkit · Animation Rigging · Game AI · Visual Studio · Android · Windows · Web (WebGL)
 
 **🌐 Web Development** — React.js · Next.js · Node.js · Express · HTML5 · CSS3 · JavaScript · Tailwind CSS
 
@@ -103,7 +104,7 @@ Exurion Technologies is a full-service IT company founded by Ebin Biju, offering
 
 **🤖 AI & Automation** — Python · FastAPI · OpenAI · LangChain · Discord.js
 
-**🗄️ Database & Storage** — MongoDB · MySQL · IndexedDB
+**🗄️ Database & Storage** — MongoDB · MySQL · Firebase · IndexedDB
 
 **🛒 E-Commerce & CMS** — Shopify · Stripe · Razorpay · Sanity.io
 
