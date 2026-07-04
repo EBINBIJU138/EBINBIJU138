@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ebin%20Biju&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder%20%26%20CEO%20%40%20Exurion%20Technologies&descAlignY=62&descSize=15&descColor=fff)
+type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ebin%20Biju&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder%20%26%20CEO%20%40%20Exurion%20Technologies&descAlignY=62&descSize=15&descColor=fff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=820&lines=Founder+%26+CEO+%40+Exurion+Technologies+%F0%9F%8F%A2;Leading+Product%2C+Engineering+%26+Strategy+%E2%9A%A1;Full-Service+Technology+%26+Game+Studio+%F0%9F%92%BB;Code.+Create.+Conquer.+%F0%9F%94%A5)](https://git.io/typing-svg)
 
