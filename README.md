@@ -38,6 +38,11 @@ const executive = {
 
 ## 🏢 Company Overview — Exurion Technologies
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500">
+</div>
+
+
 Exurion Technologies is a full-service technology company founded and solely led by Ebin Biju, delivering end-to-end development across game production, web and mobile applications, e-commerce, and custom software — backed by dedicated hosting infrastructure. Every product is currently built and delivered directly by the Founder & CEO, with no additional staff. The company is now expanding its focus toward AI, integrating intelligent systems into its product lines and service offerings.
 
 | | |
@@ -130,6 +135,11 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical or strateg
 ## 📊 GitHub Activity
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120">
+</div>
+
+
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=EBINBIJU138&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="70%" />
 
@@ -142,6 +152,11 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical or strateg
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
 ## 🏆 Executive Background & Credentials
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.gif" width="150">
+</div>
+
 
 <div align="center">
 
@@ -160,6 +175,11 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical or strateg
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
 ## ✅ Recently Sharpened
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216122001-9b8b0c11-c9b0-4d0e-b9b3-3f4b6f75f22e.gif" width="150">
+</div>
+
 
 ```
 Advanced Game Engine Workflows  →  Realistic rendering & character systems
