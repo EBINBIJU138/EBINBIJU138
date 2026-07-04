@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ebin%20Biju&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Founder%20%26%20CEO%20%40%20Exurion%20Technologies&descAlignY=62&descSize=15&descColor=fff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=820&lines=Founder+%26+CEO+%40+Exurion+Technologies+%F0%9F%8F%A2;Building+Games%2C+Apps+%26+Products+End-to-End+%E2%9A%A1;Full-Service+IT+%26+Game+Studio+%F0%9F%92%BB;Code.+Create.+Conquer.+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=820&lines=Founder+%26+CEO+%40+Exurion+Technologies+%F0%9F%8F%A2;Leading+Product%2C+Engineering+%26+Strategy+%E2%9A%A1;Full-Service+Technology+%26+Game+Studio+%F0%9F%92%BB;Code.+Create.+Conquer.+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ebiju127&color=70a5fd&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
@@ -12,21 +12,22 @@
 
 ---
 
-## 👤 Executive Summary
+## 👤 Executive Profile
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-**Ebin Biju** is the **Founder & CEO of Exurion Technologies**, a full-service IT company delivering games, applications, and web products end-to-end — from concept and architecture through to launch and long-term scale.
+**Ebin Biju** is the **Founder & Chief Executive Officer of Exurion Technologies**, a full-service technology company delivering games, applications, and web products end-to-end — from strategy and architecture through to launch and long-term scale.
 
-Ebin's approach to product engineering is built on a simple standard: ship with intent, architect for scale, and never compromise on craft. That standard shapes every product Exurion delivers, from indie games to enterprise-grade platforms.
+As Founder & CEO, Ebin sets the company's technical direction and product strategy, and leads execution personally rather than delegating it away. That standard applies across every engagement Exurion takes on, from indie titles to enterprise-grade platforms.
 
 ```
-const founder = {
-  name:   "Ebin Biju",
-  role:   "Founder & CEO, Exurion Technologies",
-  focus:  ["Product Strategy", "Technical Architecture", "Team Leadership"],
-  builds: ["Games", "Applications", "Web Platforms", "Digital Infrastructure"],
-  motto:  "Code. Create. Conquer."
+const executive = {
+  name:       "Ebin Biju",
+  title:      "Founder & Chief Executive Officer",
+  company:    "Exurion Technologies",
+  mandate:    ["Corporate Strategy", "Product Vision", "Technical Architecture", "Team Leadership"],
+  delivers:   ["Games", "Applications", "Web Platforms", "Digital Infrastructure"],
+  philosophy: "Code. Create. Conquer."
 };
 ```
 
@@ -34,33 +35,33 @@ const founder = {
 
 ---
 
-## 🏢 About Exurion Technologies
+## 🏢 Company Overview — Exurion Technologies
 
-Exurion Technologies is a full-service IT company founded by Ebin Biju, delivering end-to-end development across game production, web and mobile applications, e-commerce, and custom software — backed by dedicated hosting infrastructure and a founder who leads from the front.
+Exurion Technologies is a full-service technology company founded and led by Ebin Biju, delivering end-to-end development across game production, web and mobile applications, e-commerce, and custom software — backed by dedicated hosting infrastructure and executive leadership that stays close to the product.
 
 | | |
 |:---|:---|
-| **🏗️ Founded & Led By** | Ebin Biju |
-| **🏢 Office** | Virtual office — remote-first team |
+| **🏗️ Founder & CEO** | Ebin Biju |
+| **🏢 Office** | Virtual headquarters — remote-first operating model |
 | **🎯 Core Services** | Game Development · Game Source Code Licensing · App Development · Web Development · E-Commerce Solutions · Custom Software |
 | **🖥️ Hosting Services** | Web Hosting · Bot Hosting · Game Server Hosting *(self-managed infrastructure)* |
-| **🌍 Engagement Model** | End-to-end delivery — concept, build, and launch |
+| **🌍 Engagement Model** | End-to-end delivery — strategy, build, and launch |
 | **📈 Origin** | Founded on a hands-on foundation in game development and design |
 
 ---
 
-## 🧭 Leadership Philosophy
+## 🧭 Executive Leadership Philosophy
 
 ```
-Ship with intent       →  Every feature tied to a clear product outcome
-Architect for scale    →  Systems built to grow, not just to demo
-Lead by building       →  A founder who codes, designs, and ships alongside the team
-Move fast, stay sharp  →  Rapid iteration without cutting technical corners
+Ship with intent       →  Every roadmap decision tied to a clear business outcome
+Architect for scale    →  Systems and teams built to grow, not just to demo
+Lead by building       →  A CEO who codes, designs, and ships alongside the team
+Move fast, stay sharp  →  Rapid iteration without cutting technical or strategic corners
 ```
 
 ---
 
-## 🚀 Flagship & Ongoing Work
+## 🚀 Product & Engagement Portfolio
 
 ### 🎮 Games Delivered
 
@@ -123,7 +124,7 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical corners
 
 ---
 
-## 🏆 Background & Credentials
+## 🏆 Executive Background & Credentials
 
 <div align="center">
 
@@ -135,7 +136,7 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical corners
 | 🤖 **AI & Bots** | AI Chatbot Development · Discord Bot Development |
 | 🗄️ **Infrastructure** | MySQL Database Services · Web Hosting & Server Management |
 
-**👑 Currently** — Founder & CEO, Exurion Technologies
+**👑 Current Role** — Founder & Chief Executive Officer, Exurion Technologies
 
 </div>
 
