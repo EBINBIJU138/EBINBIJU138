@@ -25,7 +25,7 @@ const executive = {
   name:       "Ebin Biju",
   title:      "Founder & Chief Executive Officer",
   company:    "Exurion Technologies",
-  mandate:    ["Corporate Strategy", "Product Vision", "Technical Architecture", "Team Leadership"],
+  mandate:    ["Corporate Strategy", "Product Vision", "Technical Architecture", "End-to-End Execution"],
   delivers:   ["Games", "Applications", "Web Platforms", "Digital Infrastructure"],
   philosophy: "Code. Create. Conquer."
 };
@@ -37,12 +37,13 @@ const executive = {
 
 ## 🏢 Company Overview — Exurion Technologies
 
-Exurion Technologies is a full-service technology company founded and led by Ebin Biju, delivering end-to-end development across game production, web and mobile applications, e-commerce, and custom software — backed by dedicated hosting infrastructure and executive leadership that stays close to the product. The company is now expanding its focus toward AI, integrating intelligent systems into its product lines and service offerings.
+Exurion Technologies is a full-service technology company founded and solely led by Ebin Biju, delivering end-to-end development across game production, web and mobile applications, e-commerce, and custom software — backed by dedicated hosting infrastructure. Every product is currently built and delivered directly by the Founder & CEO, with no additional staff. The company is now expanding its focus toward AI, integrating intelligent systems into its product lines and service offerings.
 
 | | |
 |:---|:---|
 | **🏗️ Founder & CEO** | Ebin Biju |
-| **🏢 Office** | Virtual headquarters — remote-first operating model |
+| **🏢 Office** | Virtual headquarters — solo-operated, remote-first |
+| **👤 Staff** | None currently — all work is done directly by the Founder & CEO |
 | **🎯 Core Services** | Game Development · Game Source Code Licensing · App Development · Web Development · E-Commerce Solutions · Custom Software |
 | **🖥️ Hosting Services** | Web Hosting · Bot Hosting · Game Server Hosting *(self-managed infrastructure)* |
 | **🌍 Engagement Model** | End-to-end delivery — strategy, build, and launch |
@@ -55,8 +56,8 @@ Exurion Technologies is a full-service technology company founded and led by Ebi
 
 ```
 Ship with intent       →  Every roadmap decision tied to a clear business outcome
-Architect for scale    →  Systems and teams built to grow, not just to demo
-Lead by building       →  A CEO who codes, designs, and ships alongside the team
+Architect for scale    →  Systems built to grow, ready to scale when the time comes
+Lead by building       →  A CEO who personally codes, designs, and ships every product
 Move fast, stay sharp  →  Rapid iteration without cutting technical or strategic corners
 ```
 
