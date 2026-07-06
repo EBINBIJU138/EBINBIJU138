@@ -131,6 +131,16 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical corners
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
+## 🌱 Currently Learning
+
+Always exploring new tools, engines, and techniques to keep skills sharp and stay current with the industry.
+
+```
+Always learning  →  New tech, new tools, new ways to build better games
+```
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+
 ## ✅ Recently Sharpened
 
 <div align="center">
