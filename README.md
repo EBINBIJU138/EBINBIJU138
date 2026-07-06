@@ -113,6 +113,14 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical corners
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
+## 🎓 Education
+
+| Degree | Institution | Status |
+|:---|:---|:---:|
+| **B.A. History** | — | 🚫 Discontinued — left to pursue a career in IT |
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+
 ## 🎓 Certifications
 
 | Certification | Provider | Status |
