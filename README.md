@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ebin%20Biju&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Game%20Developer&descAlignY=62&descSize=15&descColor=fff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=820&lines=Game+Developer+%F0%9F%8E%AE;Unity+%26+Unreal+Engine+%E2%9A%A1;Gameplay+Programming+%26+Systems+Design+%F0%9F%92%BB;Code.+Create.+Conquer.+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=820&lines=Game+Developer+%F0%9F%8E%AE;Unity+Developer+%E2%9A%A1;Gameplay+Programming+%26+Systems+Design+%F0%9F%92%BB;Code.+Create.+Conquer.+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ebiju127&color=70a5fd&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
@@ -25,8 +25,8 @@ const developer = {
   name:       "Ebin Biju",
   role:       "Game Developer",
   focus:      ["Gameplay Programming", "Game AI", "Systems Design", "Multiplayer Networking"],
-  engines:    ["Unity", "Unreal Engine 5"],
-  languages:  ["C#", "C++", "Blueprint"],
+  engines:    ["Unity"],
+  languages:  ["C#"],
   philosophy: "Code. Create. Conquer."
 };
 ```
@@ -53,7 +53,7 @@ const developer = {
 
 | Project | Stack | Highlights | Status |
 |:---|:---|:---|:---:|
-| **Kerala Truck Simulator** | Unreal Engine 5 · C++ · Blueprint · Lumen | Open-world driving simulation featuring realistic Kerala highways and traffic | 📋 In Planning |
+| **Kerala Truck Simulator** | Unity · C# | Open-world driving simulation featuring realistic Kerala highways and traffic | 📋 In Planning |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
@@ -80,12 +80,12 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical corners
 
 | Category | Technologies |
 |:---|:---|
-| 🎮 **Game Engines** | Unity · Unreal Engine 5 |
-| 💻 **Languages** | C# · C++ · Blueprint |
+| 🎮 **Game Engines** | Unity |
+| 💻 **Languages** | C# |
 | 🌐 **Multiplayer & Networking** | Netcode · Photon |
 | 🧠 **Game AI & Level Design** | NavMesh · Game AI · Level Design · UI Toolkit |
-| 🎬 **Rendering & Animation** | Lumen · Animation Rigging |
-| 📱 **Platforms** | Android · Windows · Web (WebGL) |
+| 🎬 **Rendering & Animation** | Animation Rigging |
+| 📱 **Platforms** | Windows · Web (WebGL) |
 | 🧊 **3D & Design Tooling** | Blender · Adobe Photoshop |
 | 🔧 **Version Control & Deployment** | Git · Vercel · Netlify |
 
@@ -105,7 +105,7 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical corners
 |:---|:---|
 | 🎮 **Game Development** | Gameplay Programming · Game Mechanics & Level Design · Game AI · Game Design · Multiplayer Networking |
 | 🎨 **Design** | 3D Modelling · Animation Rigging · Motion Graphics |
-| 🖥️ **Engines** | Unity · Unreal Engine 5 |
+| 🖥️ **Engines** | Unity |
 
 **👑 Currently Seeking** — Game Developer roles
 
