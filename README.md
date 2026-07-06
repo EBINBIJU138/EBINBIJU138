@@ -26,7 +26,7 @@ const developer = {
   role:       "Game Developer",
   focus:      ["Gameplay Programming", "Game AI", "Systems Design", "Multiplayer Networking"],
   engines:    ["Unity"],
-  languages:  ["C#"],
+  languages:  ["C", "C#", "Java"],
   philosophy: "Code. Create. Conquer."
 };
 ```
@@ -81,7 +81,7 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical corners
 | Category | Technologies |
 |:---|:---|
 | 🎮 **Game Engines** | Unity |
-| 💻 **Languages** | C# |
+| 💻 **Languages** | C · C# · Java |
 | 🌐 **Multiplayer & Networking** | Netcode · Photon |
 | 🧠 **Game AI & Level Design** | NavMesh · Game AI · Level Design · UI Toolkit |
 | 🎬 **Rendering & Animation** | Animation Rigging |
@@ -110,6 +110,15 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical corners
 **👑 Currently Seeking** — Game Developer roles
 
 </div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
+
+## 🎓 Certifications
+
+| Certification | Provider | Status |
+|:---|:---|:---:|
+| **C & Java (Advanced)** | G-Tech | ✅ Completed |
+| **Game Development & Game Designing** | Emergio Games | ✅ Completed |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
