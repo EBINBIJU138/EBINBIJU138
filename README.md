@@ -53,8 +53,7 @@ const developer = {
 
 | Project | Stack | Highlights | Status |
 |:---|:---|:---|:---:|
-| **Open-World Driving Simulation** | Unreal Engine 5 · C++ · Blueprint · Lumen | Open-world driving simulation with realistic highways and traffic | 📋 In Planning |
-| **Business Simulation Game** | Unity · C# · React.js · Node.js | Simulation game centered on running a tech business | 📋 In Planning |
+| **Kerala Truck Simulator** | Unreal Engine 5 · C++ · Blueprint · Lumen | Open-world driving simulation featuring realistic Kerala highways and traffic | 📋 In Planning |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
@@ -87,7 +86,7 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical corners
 | 🧠 **Game AI & Level Design** | NavMesh · Game AI · Level Design · UI Toolkit |
 | 🎬 **Rendering & Animation** | Lumen · Animation Rigging |
 | 📱 **Platforms** | Android · Windows · Web (WebGL) |
-| 🧊 **3D & Design Tooling** | Blender · Maya · Adobe Photoshop · Figma |
+| 🧊 **3D & Design Tooling** | Blender · Adobe Photoshop |
 | 🔧 **Version Control & Deployment** | Git · Vercel · Netlify |
 
 </div>
