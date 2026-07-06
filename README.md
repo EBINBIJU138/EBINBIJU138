@@ -165,7 +165,7 @@ Animation & Rigging             →  Character animation and motion systems
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:exuriontechnologies@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:ebiju127@gmail.com)
 
 **Open to game developer roles and collaboration — reach out via email above.**
 
