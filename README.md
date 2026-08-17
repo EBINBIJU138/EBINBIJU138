@@ -113,21 +113,13 @@ Move fast, stay sharp  →  Rapid iteration without cutting technical corners
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
-## 🎓 Education
-
-| Degree | Institution | Status |
-|:---|:---|:---:|
-| **B.A. History** | — | 🚫 Discontinued — left to pursue a career in IT |
-| **ITI — Electronics** | — | ✅ Completed |
-| **Game Development & Game Designing** | Emergio Games | ✅ Completed |
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
-
 ## 🎓 Certifications
 
 | Certification | Provider | Status |
 |:---|:---|:---:|
 | **C & Java (Advanced)** | G-Tech | ✅ Completed |
+| **Game Development & Game Designing** | [Provider TBD] | ✅ Completed |
+| **Game Art** | [Provider TBD] | ✅ Completed |
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header)
 
